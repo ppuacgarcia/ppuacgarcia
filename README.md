@@ -25,7 +25,7 @@
   <a href="https://www.facebook.com/profile.php?id=100007354367029&locale=es_LA" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="pablo david puac garcia" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/puacgarcia/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="instagram" height="30" width="40" /></a>
  <a href="https://x.com/home" target="blank"><img align="center"
