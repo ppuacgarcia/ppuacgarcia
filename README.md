@@ -28,9 +28,6 @@
   <a href="https://www.instagram.com/puacgarcia/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="instagram" height="30" width="40" /></a>
- <a href="https://x.com/home" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="twitter" height="30" width="40" /></a>
 </p>
 
 <br>
